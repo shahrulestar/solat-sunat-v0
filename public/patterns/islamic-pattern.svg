@@ -1,0 +1,11 @@
+<svg width="800" height="800" viewBox="0 0 800 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#clip0_1_2)">
+    <path d="M0 0H800V800H0V0Z" fill="white"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M400 0L800 0V800H0V0L400 0ZM400 100L500 200L400 300L300 200L400 100ZM600 300L500 400L600 500L700 400L600 300ZM200 300L300 400L200 500L100 400L200 300ZM400 500L500 600L400 700L300 600L400 500ZM700 100L800 200V0L700 100ZM700 700L800 600V800L700 700ZM100 700L0 600V800L100 700ZM100 100L0 200V0L100 100Z" fill="black"/>
+  </g>
+  <defs>
+    <clipPath id="clip0_1_2">
+      <rect width="800" height="800" fill="white"/>
+    </clipPath>
+  </defs>
+</svg>
