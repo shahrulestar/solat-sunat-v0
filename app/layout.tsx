@@ -4,7 +4,7 @@ import { Analytics } from '@vercel/analytics/next'
 
 export const metadata: Metadata = {
   title: 'Solat Sunat Tutorial',
-  description: 'Created with v0.dev',
+  description: 'Created with v0.dev & ChatGPT',
   generator: 'v0.dev',
 }
 
