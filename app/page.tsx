@@ -82,13 +82,11 @@ export default function Home() {
             <Moon className="h-6 w-6" />
           </div>
           <div className="text-gray-600 text-sm">
-            {t.footerNote}{" "}
-            <a href="https://shahrulestar.com" className="underline hover:text-black transition-colors">
-               shahrulestar.com
-            </a>
+            {t.footerNote} Built with ChatGPT.
           </div>
         </div>
       </footer>
-    </div>
+      </div>
+
   )
 }
