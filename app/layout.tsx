@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Solat Sunat Tutorial',
-  description: 'Created with v0.dev by Shahrul Estar.',
+  description: 'Created with v0.dev',
   generator: 'v0.dev',
 }
 
