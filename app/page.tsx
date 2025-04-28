@@ -83,8 +83,7 @@ export default function Home() {
           </div>
           <div className="text-gray-600 text-sm">
             {t.footerNote}{" "}
-            <a href="https://shahrulestar.com" className="underline hover:text-black transition-colors">
-              shahrulestar.com
+            
             </a>
           </div>
         </div>
